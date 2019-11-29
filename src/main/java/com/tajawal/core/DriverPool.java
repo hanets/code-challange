@@ -1,6 +1,5 @@
-package com.tajawal;
+package com.tajawal.core;
 
-import com.tajawal.core.DriverFactory;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 

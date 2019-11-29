@@ -1,6 +1,6 @@
 package com.tajawal.page_object;
 
-import com.tajawal.DriverPool;
+import com.tajawal.core.DriverPool;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;

@@ -1,5 +1,6 @@
 package com.tajawal;
 
+import com.tajawal.core.DriverPool;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
